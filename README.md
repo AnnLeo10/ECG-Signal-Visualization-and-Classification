@@ -83,26 +83,6 @@ The model achieved high precision for the selected abnormal class, meaning most 
 
 These results apply to this particular experiment and held-out recording. They do not establish clinical reliability or guarantee similar performance on other recordings.
 
-## Visualizations
-
-### ECG waveform — 5 seconds
-
-![ECG waveform for 5 seconds](ecg_5_seconds.png)
-
-### ECG waveform — 10 seconds
-
-![ECG waveform for 10 seconds](ecg_10_seconds.png)
-
-### ECG waveform — 20 seconds
-
-![ECG waveform for 20 seconds](ecg_20_seconds.png)
-
-### Confusion matrix
-
-![ECG classification confusion matrix](confusion_matrix.png)
-
-The confusion matrix illustrates the relationship between the true and predicted heartbeat classes.
-
 ## Technologies Used
 
 - Python
