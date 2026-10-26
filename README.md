@@ -77,17 +77,6 @@ Each segment represents approximately 0.7 seconds of ECG data at 360 Hz.
 
 The model was evaluated using accuracy, abnormal-class precision, abnormal-class recall, F1-score, a classification report, and a confusion matrix.
 
-## Model Results
-
-Results from the current notebook's held-out evaluation on record 106:
-
-| Metric | Score |
-|---|---:|
-| Accuracy | 90.08% |
-| Abnormal precision | 99.08% |
-| Abnormal recall | 61.92% |
-| Abnormal F1-score | 0.7621 |
-
 ### Interpretation
 
 The model achieved high precision for the selected abnormal class, meaning most beats it predicted as abnormal were abnormal according to the dataset annotations. However, its recall was 61.92%, meaning it failed to identify some annotated abnormal beats.
