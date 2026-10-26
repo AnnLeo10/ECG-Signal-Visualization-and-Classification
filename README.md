@@ -115,5 +115,8 @@ These results apply to this particular held-out recording and do not establish c
 - Class imbalance and differences between recordings can affect performance.
 - The model uses raw ECG segment samples as features.
 
+## References
 
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+MIT-BIH Arrhythmia Database — PhysioNet
+WFDB Python Documentation
+Scikit-learn Documentation
