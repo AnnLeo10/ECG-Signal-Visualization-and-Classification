@@ -118,5 +118,7 @@ These results apply to this particular held-out recording and do not establish c
 ## References
 
 MIT-BIH Arrhythmia Database — PhysioNet
+
 WFDB Python Documentation
+
 Scikit-learn Documentation
